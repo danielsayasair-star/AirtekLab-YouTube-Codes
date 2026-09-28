@@ -2,6 +2,9 @@
 
 Códigos y recursos de los proyectos de electrónica, ESP32 e IoT del canal Airtek Lab.
 
+📺 **Canal de YouTube:**  
+https://www.youtube.com/@AirtekLab
+
 ## Capítulos
 
 Los códigos están organizados por capítulo del canal.
