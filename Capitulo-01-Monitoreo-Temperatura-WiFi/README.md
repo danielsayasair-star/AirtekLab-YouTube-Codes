@@ -1,5 +1,9 @@
 # Capítulo 1 - Monitoreo de Temperatura WiFi
 
+📺 **Ver el capítulo en YouTube:**
+
+https://youtu.be/QXujsOyeVQQ
+
 ## Proyecto
 
 Primer capítulo del sistema de monitoreo de temperatura con ESP32.
@@ -30,3 +34,9 @@ Puedes descargar o copiar el código y utilizarlo en tu propio proyecto.
 Las modificaciones se realizan en tu propio entorno de desarrollo.
 
 Los códigos de este repositorio corresponden a los proyectos mostrados en el canal **Airtek Lab**.
+
+## 📺 Si llegaste desde GitHub
+
+Si querés entender cómo funciona este código y ver la configuración paso a paso, mirá el capítulo correspondiente en YouTube:
+
+https://youtu.be/QXujsOyeVQQ
