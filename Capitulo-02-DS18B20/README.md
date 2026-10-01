@@ -2,7 +2,7 @@
 
 📺 **Ver el capítulo en YouTube:**
 
-https://youtu.be/QXujsOyeVQQ
+https://youtu.be/rnL61xOYpbc
 
 ## Proyecto
 
