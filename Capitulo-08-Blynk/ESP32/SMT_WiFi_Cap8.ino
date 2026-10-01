@@ -1,7 +1,7 @@
 /*
    Sistema de Monitoreo de Temperatura WiFi
    Capítulo 8
-   ESP32: Actualiza la Temperatura en tu Página Web SIN F5
+   ESP32 + Blynk
 */
 
 //====================================================
