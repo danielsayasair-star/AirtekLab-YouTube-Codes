@@ -38,3 +38,9 @@ Para entender la configuración y el funcionamiento paso a paso, consulta el vid
 ## Uso
 
 Puedes descargar o copiar los códigos y utilizarlos en tu propio proyecto. Las modificaciones se realizan en tu propio entorno de desarrollo.
+
+## 📺 Si llegaste desde GitHub
+
+Si querés entender cómo funciona este código y ver la configuración paso a paso, mirá el capítulo correspondiente en YouTube:
+
+https://youtu.be/kCnL7xLwP-k
