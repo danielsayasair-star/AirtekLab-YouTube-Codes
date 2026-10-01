@@ -1,7 +1,8 @@
 /*
    Sistema de Monitoreo de Temperatura WiFi
-   Capítulo 1
-   Display LCD 16x2 I2C con ESP32
+   Capítulo 2
+
+   ESP32 + DS18B20 + LCD I2C
 */
 
 #include <Wire.h>
