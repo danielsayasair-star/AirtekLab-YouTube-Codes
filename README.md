@@ -81,3 +81,14 @@ Consulta el README de cada capítulo y el video correspondiente para la configur
 Puedes descargar o copiar los códigos y utilizarlos en tu propio proyecto. Las modificaciones se realizan en tu propio entorno de desarrollo.
 
 Los códigos de este repositorio corresponden a los proyectos mostrados en el canal **Airtek Lab**.
+
+
+## IoT-JARVIS
+
+Serie de proyectos para construir una red de dispositivos inteligentes con ESP32.
+
+### Capítulo 1 — Comunicación ESP-NOW
+
+Comunicación entre dos ESP32, transmisión de temperatura con DS18B20 y control de un cooler mediante un módulo de relé.
+
+[Ver códigos y recursos de IoT-JARVIS — Capítulo 1](./IoT-JARVIS/Capitulo-01-ESP-NOW)
