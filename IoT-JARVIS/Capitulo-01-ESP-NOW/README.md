@@ -26,4 +26,6 @@ Las MAC del ejemplo corresponden a las placas usadas en el video. Si usas otras,
 
 El control del cooler enciende a partir de 25 °C y apaga a 24 °C o menos. Si deja de recibir datos durante 5 segundos después de la primera lectura, apaga la salida. Verifica la lógica del relé y las conexiones antes de energizar el circuito. Esta demostración no sustituye las protecciones necesarias para equipos reales.
 
-El enlace al video se agregará cuando esté publicado.
+## Video de este capítulo
+
+[Ver el video en YouTube: ESP-NOW — IoT-JARVIS, Capítulo 1](https://youtu.be/Wa1IRX9WAYo)
