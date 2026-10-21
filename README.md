@@ -97,4 +97,5 @@ Comunicación entre dos ESP32, transmisión de temperatura con DS18B20 y control
 
 Seis ejemplos prácticos: pulsador momentáneo, alternar estado, dos pulsadores para un LED, contador de pulsaciones, ajuste de consigna y pulsación corta/larga.
 
+[📺 Ver la Clase 01 en YouTube](https://youtu.be/TXKTIy3Fzgk)  
 [Ver códigos y recursos de la Clase 01 — Programación de pulsadores](./Curso-ESP32-Desde-Cero/Clase-01-Pulsadores)
