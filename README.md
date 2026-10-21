@@ -92,3 +92,9 @@ Serie de proyectos para construir una red de dispositivos inteligentes con ESP32
 Comunicación entre dos ESP32, transmisión de temperatura con DS18B20 y control de un cooler mediante un módulo de relé.
 
 [Ver códigos y recursos de IoT-JARVIS — Capítulo 1](./IoT-JARVIS/Capitulo-01-ESP-NOW)
+
+### Clase 01 — Programación de pulsadores con ESP32
+
+Seis ejemplos prácticos: pulsador momentáneo, alternar estado, dos pulsadores para un LED, contador de pulsaciones, ajuste de consigna y pulsación corta/larga.
+
+[Ver códigos y recursos de la Clase 01 — Programación de pulsadores](./Curso-ESP32-Desde-Cero/Clase-01-Pulsadores)
