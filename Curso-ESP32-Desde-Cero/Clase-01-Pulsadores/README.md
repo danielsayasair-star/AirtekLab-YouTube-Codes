@@ -1,3 +1,5 @@
+📺 **Ver la clase en YouTube:** https://youtu.be/TXKTIy3Fzgk
+
 # Clase 01 — Programación de pulsadores con ESP32
 
 Material complementario del video de AirtekLab sobre programación de pulsadores.
@@ -27,3 +29,8 @@ Importante: no conectes un LED a un GPIO sin resistencia limitadora. El ejercici
 - [06 — Pulsación corta y larga](./06_Pulsacion_Corta_Larga.ino)
 
 Abrí el archivo `.ino` del ejercicio en Arduino IDE, seleccioná ESP32 Dev Module y, cuando corresponda, abrí el Monitor Serie a 115200 baudios.
+
+
+---
+
+📺 **Si llegaste desde GitHub, mirá la clase en YouTube:** https://youtu.be/TXKTIy3Fzgk
