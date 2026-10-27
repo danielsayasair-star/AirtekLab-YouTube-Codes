@@ -99,3 +99,10 @@ Seis ejemplos prácticos: pulsador momentáneo, alternar estado, dos pulsadores 
 
 [📺 Ver la Clase 01 en YouTube](https://youtu.be/TXKTIy3Fzgk)  
 [Ver códigos y recursos de la Clase 01 — Programación de pulsadores](./Curso-ESP32-Desde-Cero/Clase-01-Pulsadores)
+
+### Clase 02 — Programación con `millis()` en ESP32
+
+Cinco ejercicios prácticos para temporizar tareas sin detener el programa con `delay()`: LED, tareas independientes, lectura del DHT22, salida temporizada y detección de inactividad.
+
+[Ver códigos y recursos de la Clase 02 — Programación con millis()](./Curso-ESP32-Desde-Cero/Clase-02-Millis)
+
