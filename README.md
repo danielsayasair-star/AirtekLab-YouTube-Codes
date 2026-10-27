@@ -104,5 +104,6 @@ Seis ejemplos prácticos: pulsador momentáneo, alternar estado, dos pulsadores 
 
 Cinco ejercicios prácticos para temporizar tareas sin detener el programa con `delay()`: LED, tareas independientes, lectura del DHT22, salida temporizada y detección de inactividad.
 
+[📺 Ver la Clase 02 en YouTube](https://youtu.be/CVT6r8H1FCE)  
 [Ver códigos y recursos de la Clase 02 — Programación con millis()](./Curso-ESP32-Desde-Cero/Clase-02-Millis)
 
