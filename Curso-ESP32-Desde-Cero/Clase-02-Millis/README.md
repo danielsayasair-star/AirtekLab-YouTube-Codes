@@ -2,6 +2,8 @@
 
 En esta clase vas a aprender a utilizar `millis()` para temporizar tareas sin detener el programa con `delay()`, mediante cinco ejercicios prácticos.
 
+📺 **Ver el video en YouTube:** https://youtu.be/CVT6r8H1FCE
+
 ## Hardware y software
 
 - Placa: ESP32 Dev Module
